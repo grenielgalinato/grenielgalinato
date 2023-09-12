@@ -11,7 +11,7 @@
 [![(BuyMeACoffee)](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
 
 <h4>Few More Things About Me:</h4>
-
+0. ![](https://komarev.com/ghpvc/?username=grenielxdevs&color=green)
 1. Goals: (Full-Stack Web Developer, Cloud Engineer, Mobile Developer)
 2. Portfolio Website /* Under Construction */
 3. My Resume /* Under Construction */
