@@ -10,17 +10,25 @@
 [![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![(BuyMeACoffee)](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
 
+<h5 align="left">Profile</h5>
+
+![](https://komarev.com/ghpvc/?username=grenielxdevs&color=green)
+
 <h4>Few More Things About Me:</h4>
-0. ![](https://komarev.com/ghpvc/?username=grenielxdevs&color=green)
+
 1. Goals: (Full-Stack Web Developer, Cloud Engineer, Mobile Developer)
 2. Portfolio Website /* Under Construction */
 3. My Resume /* Under Construction */
-
+   
 ***
 
-<h3 align="left">Softwares Development Tools that I used:</h3>
+<h3 align="left">Softwares Development Tools that I Know So Far:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nextjs,angular,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Currently I'm focusing:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,postgresql,ruby,rails&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Design Tools that I used:</h3>
 
