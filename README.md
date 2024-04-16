@@ -28,7 +28,8 @@
 
 <h3 align="left">Currently Targeting and Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,azure,docker,python,django,mysql,postgresql,ruby,rails&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,azure,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,ruby,rails,mysql,postgresql&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Design Tools that I used:</h3>
 
@@ -45,4 +46,4 @@
 ***
 
 <h4 align="center">Thank you for reading! 😍💓 Ciao </h4>
-<p align="center">Greniel Galinato @ grenielxdevs</p>
+<p align="center">Greniel Galinato @ grenielgalinato.com</p>
