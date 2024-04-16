@@ -4,7 +4,7 @@
 
 <h4 align="left">You can reach me here:</h4>
 
-[![(Porfolio)](https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![(Porfolio)](https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=About.me&logoColor=white)](https://www.grenielgalinato.com)
 [![(LinkedIn)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grenielgalinato/)
 [![(Dev.to)](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)]()
 [![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
@@ -17,7 +17,7 @@
 <h4>Few More Things About Me:</h4>
 
 1. Goals: (Full-Stack Web Developer, Cloud Engineer, Mobile Developer)
-2. Portfolio Website /* Under Construction */
+2. Portfolio Website https://www.grenielgalinato.com
 3. My Resume /* Under Construction */
    
 ***
