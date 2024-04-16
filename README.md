@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hallo!👋🙋 I'm Greniel ✨</h1>
 
-<h4 align="left">I'm working as a Web Developer at CREATIVEHOPE PH INC with a knowledge and experience in Frontend (React, NextJS, Jquery, Javascript) and Backend (PHP, Ruby on Rails, MySQL) Technologies. I'm aspiring and pursuing the path into Software Engineer 🏆. Outside of work, I'm only watching movies and animes 😊, but I'm a failed valorant player (Uninstalled 🥲). Most of the time, I'm learning other tech (like: angular, java, flutter).</h4>
+<h4 align="left">I'm working as a Web Developer at Sence1 Inc. (Formerly CREATIVEHOPE PH INC) with a knowledge and experience in Frontend (React, NextJS, Jquery, Javascript, Typescript) and Backend (PHP, Ruby on Rails, MySQL) Technologies. I'm aspiring and pursuing the path into a Full Stack Software Engineer 🏆. Outside of work, I'm only watching movies and animes 😊, but I'm a failed valorant player (Uninstalled 🥲). Most of the time, I'm learning other tech (like: Angular, C#, ASP.NET, React Native, and flutter).</h4>
 
 <h4 align="left">You can reach me here:</h4>
 
@@ -26,9 +26,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nextjs,angular,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
 
-<h3 align="left">Currently I'm focusing:</h3>
+<h3 align="left">Currently Targeting and Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,postgresql,ruby,rails&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,azure,docker,python,django,mysql,postgresql,ruby,rails&perline=5)](https://skillicons.dev)
 
 <h3 align="left">Design Tools that I used:</h3>
 
