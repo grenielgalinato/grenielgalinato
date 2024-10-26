@@ -16,7 +16,7 @@
 
 <h4>Few More Things About Me:</h4>
 
-1. Goals: (Full-Stack Web Developer, Cloud Engineer, Mobile Developer)
+1. Goals: (Full-Stack Software Engineer, Mobile Developer)
 2. Portfolio Website https://www.grenielgalinato.com
 3. My Resume /* Under Construction */
    
@@ -24,12 +24,12 @@
 
 <h3 align="left">Softwares Development Tools that I Know So Far:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nextjs,angular,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nextjs,angular,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,python,django,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Currently Targeting and Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,dotnet,azure,docker&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,django,ruby,rails,mysql,postgresql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,cs,dotnet,azure,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,mysql,postgresql&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Design Tools that I used:</h3>
 
