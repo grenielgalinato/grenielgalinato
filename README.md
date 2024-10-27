@@ -1,35 +1,43 @@
-<h1 align="center">✨ Hallo!👋🙋 I'm Greniel ✨</h1>
-
-<h4 align="left">I'm working as a Web Developer at Sence1 Inc. (Formerly CREATIVEHOPE PH INC) with a knowledge and experience in Frontend (React, NextJS, Jquery, Javascript, Typescript) and Backend (PHP, Ruby on Rails, MySQL) Technologies. I'm aspiring and pursuing the path into a Full Stack Software Engineer 🏆. Outside of work, I'm only watching movies and animes 😊, but I'm a failed valorant player (Uninstalled 🥲). Most of the time, I'm learning other tech (like: Angular, C#, ASP.NET, React Native, and flutter).</h4>
-
-<h4 align="left">You can reach me here:</h4>
+[![Header](https://github.com/grenielgalinato/grenielgalinato/blob/main/github_hero.png "Header")](https://grenielgalinato.com)
+<div align="center">
 
 [![(Porfolio)](https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=About.me&logoColor=white)](https://www.grenielgalinato.com)
 [![(LinkedIn)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grenielgalinato/)
-[![(Dev.to)](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)]()
-[![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![(BuyMeACoffee)](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
+[![(Dev.to)](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/grenielgalinato)
+[![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](greniel.galinato@gmail.com)
+[![(BuyMeACoffee)](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/grenielgalinato)
 
-<h5 align="left">Profile</h5>
-
+</div>
+<div align="center">
+   
 ![](https://komarev.com/ghpvc/?username=grenielxdevs&color=green)
 
-<h4>Few More Things About Me:</h4>
+</div>
 
-1. Goals: (Full-Stack Software Engineer, Mobile Developer)
-2. Portfolio Website https://www.grenielgalinato.com
-3. My Resume /* Under Construction */
+***
+
+<h1 align="left">✨ Hi! 👋  I'm Greniel Galinato ✨</h1>
+
+<p align="left">I'm working as a Sofware Engineer at Sence1 Inc. with a knowledge and experience in Frontend (React, NextJS, Jquery, Javascript, Typescript) and Backend (PHP, Ruby on Rails, MySQL) Technologies. I'm aspiring and pursuing the path into a Full Stack Software Engineer 🏆. Outside of work, I'm only watching movies and animes 😊. Most of the time, I'm learning other tech (like: NestJS, Angular, C#, ASP.NET, React Native).</p>
+
+
+
+<h4>Few Things About Me:</h4>
+
+1. Goals: Full-Stack Software Engineer, Mobile Developer
+2. Portfolio Website <a target="_blank" href="https://www.grenielgalinato.com">https://www.grenielgalinato.com</a>
+3. My Resume <a target="_blank" href="https://grenielgalinato.com/assets/grenielgalinato-resume-BMNC-dzB.pdf">grenielgalinato-resume.pdf</a>
    
 ***
 
-<h3 align="left">Softwares Development Tools that I Know So Far:</h3>
+<h3 align="left">My Current Tech Stack & What I'm learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,nextjs,angular,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,python,django,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,react,nextjs,docker,mysql&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=angular,cs,dotnet,azure,postgresql&perline=10)](https://skillicons.dev)
 
-<h3 align="left">Currently Targeting and Learning:</h3>
+<h3 align="left">Softwares Development Tools that I've used:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,cs,dotnet,azure,docker&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,mysql,postgresql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,jquery,react,redux,nextjs,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,python,django,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Design Tools that I used:</h3>
 
@@ -38,11 +46,18 @@
 ***
 
 <h3 align="left">My Github Stats:</h3>
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=grenielgalinato)](https://git.io/streak-stats) 
-| [![grenielxdevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=grenielgalinato&hide=stars,issues)](https://github.com/grenielgalinato/github-readme-stats) 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grenielgalinato&layout=compact)](https://github.com/grenielgalinato/github-readme-stats) |
+
+<a href="https://github.com/grenielgalinato/grenielgalinato">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenielgalinato&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/grenielgalinato/grenielgalinato">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grenielgalinato&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="grenielgalinato's GitHub Stats" />
+</a>
+<a href="https://github.com/grenielgalinato/grenielgalinato">
+  <img align="center" src="https://streak-stats.demolab.com/?user=grenielgalinato&theme=dark&background=1d1f21" alt="Greniel Galinato GitHub Streak Stats" />
+</a>
 
 ***
 
-<h4 align="center">Thank you for reading! 😍💓 Ciao </h4>
-<p align="center">Greniel Galinato @ grenielgalinato.com</p>
+<h4 align="center">Thank you for checking my profile! </h4>
+<p align="center">Greniel Galinato @ <a target="_blank" href="https://www.grenielgalinato.com">grenielgalinato.com</a></p>
