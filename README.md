@@ -4,8 +4,8 @@
 [![(Porfolio)](https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=About.me&logoColor=white)](https://www.grenielgalinato.com)
 [![(LinkedIn)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grenielgalinato/)
 [![(Dev.to)](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/grenielgalinato)
-[![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](greniel.galinato@gmail.com)
-[![(BuyMeACoffee)](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/grenielgalinato)
+[![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greniel.galinato@gmail.com)
+[![(BuyMeACoffee)](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grenielgalinato)
 
 </div>
 <div align="center">
