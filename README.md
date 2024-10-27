@@ -38,8 +38,8 @@
 ***
 
 <h3 align="left">My Github Stats:</h3>
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=grenielgalinato)](https://git.io/streak-stats) |
-| [![grenielxdevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=grenielgalinato&hide=stars,issues)](https://github.com/grenielgalinato/github-readme-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=grenielgalinato)](https://git.io/streak-stats) 
+| [![grenielxdevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=grenielgalinato&hide=stars,issues)](https://github.com/grenielgalinato/github-readme-stats) 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grenielgalinato&layout=compact)](https://github.com/grenielgalinato/github-readme-stats) |
 
 ***
