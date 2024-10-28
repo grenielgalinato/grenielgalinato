@@ -18,7 +18,7 @@
 
 <h1 align="left">✨ Hi! 👋  I'm Greniel Galinato ✨</h1>
 
-<p align="left">I'm working as a Sofware Engineer at Sence1 Inc. with a knowledge and experience in Frontend (React, NextJS, Jquery, Javascript, Typescript) and Backend (PHP, Ruby on Rails, MySQL) Technologies. I'm aspiring and pursuing the path into a Full Stack Software Engineer 🏆. Outside of work, I'm only watching movies and animes 😊. Most of the time, I'm learning other tech (like: NestJS, Angular, C#, ASP.NET, React Native).</p>
+<p align="left">I'm working as a Sofware Engineer at Sence1 Inc. with a knowledge and experience in Frontend (React, NextJS, Jquery, Javascript, Typescript) and Backend (PHP, Ruby on Rails, MySQL) Web Technologies. I'm aspiring and pursuing the path into a Full Stack Software Engineer 🏆. Outside of work, I'm only watching movies, series, and animes 😊. Most of the time, I'm upskilling by focusing on tech stack (such as: NestJS, Angular, C#, ASP.NET, React Native).</p>
 
 
 
