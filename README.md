@@ -59,5 +59,13 @@
 
 ***
 
+<div align="center">
+   
+![](https://github.com/grenielgalinato/grenielgalinato/blob/main/rengoku.gif)
+
+</div>
+
+***
+
 <h4 align="center">Thank you for checking my profile! </h4>
 <p align="center">Greniel Galinato @ <a target="_blank" href="https://www.grenielgalinato.com">grenielgalinato.com</a></p>
