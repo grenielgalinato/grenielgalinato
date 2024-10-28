@@ -59,6 +59,9 @@
 
 ***
 
+<h3 align="center">Rengoku said "Set your heart ablaze, go beyond your limits"</h3>
+<h4 align="center">So look straight and solve the code problem!</h4>
+
 <div align="center">
    
 ![](https://github.com/grenielgalinato/grenielgalinato/blob/main/rengoku.gif)
