@@ -32,12 +32,13 @@
 
 <h3 align="left">My Current Tech Stack & What I'm learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nestjs,react,nextjs,docker,mysql&perline=10)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=angular,cs,dotnet,azure,postgresql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,node,docker,postgres&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=supabase,vite,tailwind,vercel&perline=10)](https://skillicons.dev)<br>
+
 
 <h3 align="left">Softwares Development Tools that I've used:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,jquery,react,redux,nextjs,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,python,django,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,jquery,react,redux,nextjs,bootstrap,tailwind,flutter,androidstudio,java,ruby,rails,wordpress,php,postgres,mysql,python,flask,mongodb,firebase,docker,vscode,idea,postman&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Design Tools that I used:</h3>
 
