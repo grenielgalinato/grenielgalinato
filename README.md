@@ -32,8 +32,8 @@
 
 <h3 align="left">My Current Tech Stack & What I'm learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,node,docker,postgres&perline=10)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=supabase,vite,tailwind,vercel&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,docker,postgres&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=supabase,py,flask,vite,tailwind,vercel&perline=10)](https://skillicons.dev)<br>
 
 
 <h3 align="left">Softwares Development Tools that I've used:</h3>
